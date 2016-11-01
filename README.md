@@ -1,2 +1,4 @@
 # hello-world
-first GitHub repository
+Hi man!
+
+Thanks for all your support! Pebble, Jessica and Michael!
